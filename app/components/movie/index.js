@@ -22,7 +22,7 @@ const movie = angular
         }
       })
       .state('movie', {
-        url: '/movies/:id',
+        url: '/movies/:imdbId',
         component: 'movieDetail',
         resolve: {
           movie: (MovieService, $stateParams) => MovieService.getMovie($stateParams.id)
