@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Todd Motto",
+    "country": "UK",
+    "talk": "From .component() to @Component",
+    "photo": "img/test.png"
+  },
+  {
+    "id": 2,
+    "name": "Maxim Salnikov",
+    "country": "Norway",
+    "talk":"'Angular Material 2: Reward your app with high-quality UI in minutes",
+    "photo": "//angularcamp.org/img/people/MaximSalnikov.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wassim Chegham",
+    "country": "France",
+    "talk": "Angular 2 Server Side Rendering",
+    "photo": "//angularcamp.org/img/people/WassimChegham.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sebastian Witalec",
+    "country": "UK",
+    "talk": "Sharing Code Between Web and Native Apps",
+    "photo": "//angularcamp.org/img/people/SebastianWitalec.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Evan Schultz",
+    "country": "Canada",
+    "talk": "Building Angular 2 Application with Redux",
+    "photo": "//angularcamp.org/img/people/EvanSchultz.jpg"
+  }
+]
